@@ -1,10 +1,10 @@
 # Vision AI Ultimate
 
-Sistema de visao computacional em tempo real com IA.
+Sistema de visão computacional em tempo real com IA.
 
 ## Features
 
-- **Emotion AI** - Deteccao de emocoes faciais (feliz, triste, raiva, surpresa)
+- **Emotion AI** - Detecçao de emoçoes faciais (feliz, triste, raiva, surpresa)
 - **Object Detection** - YOLO v8 para detectar objetos
 - **Air Canvas** - Desenhe no ar com gestos
 - **Pose Tracking** - Rastreamento do corpo
@@ -13,7 +13,7 @@ Sistema de visao computacional em tempo real com IA.
 - **Fitness Tracker** - Contador de exercicios
 - **Visual Effects** - Matrix, Glitch, Neon, Clone
 
-## Instalacao
+## Instalação
 
 ```bash
 python3 -m venv venv
